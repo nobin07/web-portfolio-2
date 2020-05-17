@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    font-family: "Roboto";
+}
+h2{
+    font-size: 35px;
+}
+section{
+    height: 800px;
+}
+.header-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color-bold{
+    font-size: 50px;
+    font-weight: 700;
+    color:  rgb(219, 23, 115);
+}
+.half-width{
+    width: 40%;
+    padding: 8% 0% 0% 0%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.extra{
+    padding: 250px 0px 0px 200px;
+}
+.button-bt{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+    background-image:linear-gradient(90deg, hotpink,rgb(219, 23, 115));
+    border-radius: 5px;
+    
+}
+p{
+    color: dimgray;
+    padding-bottom: 10px;
+}
+.bio-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.adjust-img{
+    padding: 0% 0% 0% 20%;
+}
+.extra2{
+    padding: 20% 5% 0% 15%;
+}
+.latest-bg{
+    background-image: url(images/latest-work-bg.png);
+    padding-top: 50px;
+}
+.lt-heading{
+    text-align: center;
+    padding: 70px 0px 70px 0px;
+}
+.img-position img{
+    height: auto;
+    width: 30%;
+    float: left;
+    padding-left: 2.4%;
+    margin-top: 20px;
+}
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+    text-align: center;
+    height: 800px;
+}
+.ft-heading{
+    font-size: 50px;
+}
+.m-container{
+    margin: auto;
+    width: 500px;
+    background-image: linear-gradient(90deg,hotpink,rgb(219, 23, 115));
+    border-radius: 5px;
+}
+.m-container p{
+    color: white;
+    padding-top: 20px;
+}
+.m-container h3{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.f-para{
+    padding-top:290px;
+}
